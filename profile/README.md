@@ -1,0 +1,1 @@
+This organization contains a set of infrastructure tools to support a machine learning experiment. The intent was to capture every keystroke (and pause) during multiple writing sessions and use the data to train a machine learning model so that it could imitate the author's style.
